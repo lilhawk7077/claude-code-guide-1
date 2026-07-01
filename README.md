@@ -5312,6 +5312,7 @@ This caused confusion about what Claude Code actually does vs. conceptual ideas.
 - **GitHub**: https://github.com/anthropics/claude-code
 - **Awesome Claude Code**: https://github.com/hesreallyhim/awesome-claude-code
 - **Awesome Claude Skills**: https://github.com/travisvn/awesome-claude-skills
+- **Vexilo · A field guide to Claude Code**: https://vexilo.app/?lang=en — Visual interactive index of 31 agents · 99 commands · 123 skills · 13 rules, organized around the 5-step workflow (Research → Plan → Test-first → Security → Commit). One-click "Teach Claude this handbook" feeds the whole index into a local Claude session in 30 seconds. ([companion repo](https://github.com/lilhawk7077/claude-code-resources))
 
 ### Getting Help
 - **GitHub Issues**: https://github.com/anthropics/claude-code/issues
